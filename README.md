@@ -31,9 +31,9 @@
 
 ## 📃Licença:
 
-![MIT License](https://img.shields.io/github/license/lucasmarcuzo/Projeto-DIO-E-commerce-utilizando-Angular)
+![MIT License](https://img.shields.io/github/license/lucasmarcuzo/Projeto-DIO-Criando-um-E-commerce-utilizando-Angular)
 
 <div align="right"> <h3> - Obrigado pela Visita! ✌🏻</h3> </div> 
-<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/Projeto-DIO-E-commerce-utilizando-Angular"> </h3>
+<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/Projeto-DIO-Criando-um-E-commerce-utilizando-Angular"> </h3>
 
 
