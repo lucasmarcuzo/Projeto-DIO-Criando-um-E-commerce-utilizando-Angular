@@ -1,6 +1,6 @@
-# Projeto-DIO-
+<h1> 🛠️ Projeto - E-commerce utilizando Angular 💻</h1>
 
-<h1> 🛠️ Projeto - Como criar um front-end de um E-commerce utilizando Angular 💻</h1>
+- <h3> 👨🏻‍💻 Como criar um front-end de um E-commerce utilizando Angular </h3>
 
 ## 👨🏻‍🔬 Instrutora: 
 
