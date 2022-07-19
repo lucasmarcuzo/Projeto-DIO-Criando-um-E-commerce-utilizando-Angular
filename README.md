@@ -2,8 +2,6 @@
 
 <h1> 🛠️ Projeto - Como criar um front-end de um E-commerce utilizando Angular 💻</h1>
 
-- <H3> 👨🏻‍💻 Criando um projeto em TypeScript para a realização de exemplos e desafios propostos.</h3>
-
 ## 👨🏻‍🔬 Instrutora: 
 
 | Nathalia Corrêa|
